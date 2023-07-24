@@ -249,7 +249,7 @@
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 283.97px; height: 233.00px;"><img
                 alt="" src="Research Paper/images/image6.png"
                 style="width: 283.97px; height: 233.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
-                title=""></span><span class="c1">&nbsp; &nbsp; &nbsp; &nbsp;Fig. 3. IoT-based indoor vertical farming
+                title=""></span><br><span class="c1">&nbsp; &nbsp; &nbsp; &nbsp;Fig. 3. IoT-based indoor vertical farming
             block diagram &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fig. 4. Mobile UI Design</span></p>
     <p class="c9"><span class="c1"></span></p>
