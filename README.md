@@ -5,11 +5,11 @@
 </head>
 
 <body class="c24 doc-content">
-    <p class="c27"><span class="c0">IoT-Enabled Automation of Microgreen Farming </span><span
+    <h1 class="c27"><span class="c0">IoT-Enabled Automation of Microgreen Farming </span><span
             class="c14 c11">U</span><span class="c0">sing </span><span class="c14 c11">T</span><span class="c0">he
         </span><span class="c11 c14">H</span><span class="c0">ydroponic </span><span class="c14 c11">M</span><span
             class="c0">ethod </span><span class="c14 c11">&amp; M</span><span class="c0">obile</span><span
-            class="c14 c11">&nbsp;A</span><span class="c0 c15">pp</span></p>
+            class="c14 c11">&nbsp;A</span><span class="c0 c15">pp</span></h1>
     <p class="c2"><span class="c6">Allam Mohan, allam.27289@lpu.co.in</span></p>
     <p class="c2"><span class="c6">Assistant Professor | Lovely School Of Computer Science And Engineering, Lovely
             Professional University, Jalandhar, Punjab - 144402</span></p>
