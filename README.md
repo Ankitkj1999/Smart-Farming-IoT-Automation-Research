@@ -181,7 +181,7 @@
             adjusted automatically using programmed logic in microcontrollers.</span></p>
     <p class="c12"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 650.00px; height: 285.16px;"><img
-                alt="" src="images/image3.png"
+                alt="" src="Research Paper/images/image3.png"
                 style="width: 650.00px; height: 285.16px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c20"><span class="c1">Fig. 1. Data Flow Diagram </span></p>
@@ -217,7 +217,7 @@
             design.</span></p>
     <p class="c12"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 675.00px; height: 336.86px;"><img
-                alt="" src="images/image5.jpg"
+                alt="" src="Research Paper/images/image5.jpg"
                 style="width: 675.00px; height: 336.86px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c20"><span class="c1">Fig. 2. Data Flow Diagram &nbsp; &nbsp;</span></p>
@@ -243,11 +243,11 @@
             entrepreneurs who are looking to invest in indoor smart farming for microgreens. </span></p>
     <p class="c12"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 313.00px; height: 231.06px;"><img
-                alt="" src="images/image4.png"
+                alt="" src="Research Paper/images/image4.png"
                 style="width: 313.00px; height: 231.06px; margin-left: -0.00px; margin-top: -0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 283.97px; height: 233.00px;"><img
-                alt="" src="images/image6.png"
+                alt="" src="Research Paper/images/image6.png"
                 style="width: 283.97px; height: 233.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span><span class="c1">&nbsp; &nbsp; &nbsp; &nbsp;Fig. 3. IoT-based indoor vertical farming
             block diagram &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -283,11 +283,11 @@
             plants were grown sustainably and effectively.</span></p>
     <p class="c12"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 325.00px; height: 207.70px;"><img
-                alt="" src="images/image7.png"
+                alt="" src="Research Paper/images/image7.png"
                 style="width: 325.00px; height: 207.70px; margin-left: -0.00px; margin-top: -0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 325.00px; height: 212.00px;"><img
-                alt="" src="images/image1.jpg"
+                alt="" src="Research Paper/images/image1.jpg"
                 style="width: 325.00px; height: 212.00px; margin-left: -0.00px; margin-top: -0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c20"><span class="c1">Fig. 5. Plant Growth Analysis &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -295,7 +295,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig. 6. Temperature &amp; Humidity VS Time</span></p>
     <p class="c20"><span
             style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 675.00px; height: 231.12px;"><img
-                alt="" src="images/image2.png"
+                alt="" src="Research Paper/images/image2.png"
                 style="width: 675.00px; height: 231.12px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
                 title=""></span></p>
     <p class="c20"><span class="c1">Table 1. Results of the experiment.</span></p>
